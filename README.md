@@ -1,4 +1,3 @@
-# 24/7
 *Our group name is 24/7!*
 -
 *We created the website about our university where you can find out the latest news and add your own articles to site. For example, in case you lost your item, you can add it there or leave a feedback or comment for university that will help to delevop!*
